@@ -30,10 +30,10 @@ This repository contains future precipitation projection maps for the Baixo São
   - SSP585  
 - **Time periods**:  
   - Histórico: 1970–2000  
-  - 2021–2040  
+  - 2021–2031  
+  - 2031–2040  
   - 2041–2060  
-  - 2061–2080  
-  - 2081–2100
+  - 2061–2100
 
 - **Tools**:  
   - QGIS 3.36+  
